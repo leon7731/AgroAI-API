@@ -1,3 +1,5 @@
+<img align="top" width="80%" align="right" alt="Logo" src="https://drive.google.com/uc?export=view&id=1Nu27r160ezkw-m1LrctA4omjOFkliBt3" />
+
 # AgroAI API
 
 ## Introduction
